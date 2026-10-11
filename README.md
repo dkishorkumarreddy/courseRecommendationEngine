@@ -1,4 +1,4 @@
-# NextStep AI
+# courseRecommendationEngine
 
 NextStep AI is a personalized course-path recommender that helps learners decide what to study next. A learner describes a goal, chooses a target knowledge level, and can optionally list completed modules. The app uses that information to generate distinct, ordered learning paths with course titles, descriptions, links, and a short explanation of how each path supports the goal.
 
